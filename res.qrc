@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/0.png</file>
+        <file>images/1.gif</file>
+        <file>images/1.png</file>
+        <file>images/2.gif</file>
+        <file>images/2.png</file>
+        <file>images/3.gif</file>
+        <file>images/3.png</file>
+        <file>images/4.gif</file>
+        <file>images/4.png</file>
+        <file>images/5.gif</file>
+        <file>images/5.png</file>
+        <file>images/6.gif</file>
+        <file>images/6.png</file>
+        <file>images/7.gif</file>
+        <file>images/7.png</file>
+        <file>images/8.png</file>
+        <file>images/9.gif</file>
+        <file>images/10.gif</file>
+        <file>images/myicon.ico</file>
+        <file>images/pay.png</file>
+        <file>images/run.gif</file>
+        <file>images/1.jpg</file>
+    </qresource>
+</RCC>
